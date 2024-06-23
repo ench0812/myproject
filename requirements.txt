@@ -1,0 +1,12 @@
+# OSI Approved :: MIT License
+jsonschema~= 4.21.1
+# MIT License (MIT)
+python-dotenv~=1.0.1
+# Apache-2.0
+cython~=3.0.10
+#
+pytest~=8.2.2
+#
+black~=24.4.2
+#
+flake8~=7.1.0
